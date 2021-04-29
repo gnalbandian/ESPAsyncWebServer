@@ -1,7 +1,7 @@
 #include "SPIFFSEditor.h"
 #include <FS.h>
 
-#define EDFS
+// #define EDFS
 
 #ifndef EDFS
  #include "edit.htm.gz.h"
